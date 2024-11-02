@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"38eebcf2005d6972","type":"text","text":"# **Block Chain**","x":-500,"y":-140,"width":250,"height":60},
+		{"id":"12a9c21328432af9","type":"text","text":"**Tutorials**","x":-140,"y":-320,"width":140,"height":60},
+		{"id":"1d84abfcb1f96e57","type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jcgfQEbptdo?si=0Bqbn8E7Z1yZHICO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\n![[Blockchain and Solidity Development - Dapp University]]","x":200,"y":-1000,"width":600,"height":420}
+	],
+	"edges":[
+		{"id":"e6a6270f54baf88e","fromNode":"38eebcf2005d6972","fromSide":"right","toNode":"12a9c21328432af9","toSide":"left"},
+		{"id":"2505c9141bbf10ed","fromNode":"12a9c21328432af9","fromSide":"right","toNode":"1d84abfcb1f96e57","toSide":"left"}
+	]
+}

@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "f664cd3974e44009",
+    "type": "split",
+    "children": [
+      {
+        "id": "02f87ee76e9db63c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92f02131f288bd77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BlockChain/Blockchain and Solidity Development - Dapp University.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blockchain and Solidity Development - Dapp University"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7407a1bbb3d172e",
+    "type": "split",
+    "children": [
+      {
+        "id": "db76c8171b5f5e6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65afacedc8984b54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5dac6e62efe7258e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1e203d0493b656aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8755123d31c10a42",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc2f0ad5e44d520d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5ba688b96ed2261",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BlockChain/Blockchain and Solidity Development - Dapp University.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Blockchain and Solidity Development - Dapp University"
+            }
+          },
+          {
+            "id": "9c8d545bc2495cb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "BlockChain/Blockchain and Solidity Development - Dapp University.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Blockchain and Solidity Development - Dapp University"
+            }
+          },
+          {
+            "id": "9cca7647d95752f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bb80658460a572a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BlockChain/Blockchain and Solidity Development - Dapp University.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Blockchain and Solidity Development - Dapp University"
+            }
+          },
+          {
+            "id": "e84980e7d5806961",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "6db0a9b09757fa6c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "92f02131f288bd77",
+  "lastOpenFiles": [
+    "README.md",
+    "BlockChain Roadmap.canvas",
+    "BlockChain/Blockchain and Solidity Development - Dapp University.md",
+    "Welcome.md",
+    "BlockChain",
+    "Daily Goals"
+  ]
+}
